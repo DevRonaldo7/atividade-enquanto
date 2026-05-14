@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+
+    inteiro contador = 6
+
+    enquanto(contador >=1){
+
+      contador = contador - 1
+
+      escreva("\n Algortimo")
+
+    }
+    
+  }
+}
