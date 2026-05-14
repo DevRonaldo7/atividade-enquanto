@@ -1,0 +1,18 @@
+programa {
+  funcao inicio() {
+
+    inteiro numero ,soma = 0, contador = 0
+
+    enquanto(contador<5){
+      escreva(" qual o primeiro numero: ")
+      leia(numero)
+
+      soma = numero + soma 
+
+      contador = contador + 1
+     
+      
+
+
+    }
+    escreva("\n O resultado: " + soma)
